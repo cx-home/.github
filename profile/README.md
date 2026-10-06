@@ -1,3 +1,5 @@
+<p align="center"><img src="cx-logo.png" width="96" alt="cx"></p>
+
 # cx
 
 CX is one bracketed syntax for documents, queries, programs and the compiler's
